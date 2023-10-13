@@ -8,7 +8,8 @@ As a part of learning Figma, I created a UI designs for form builder app. Check 
 
 ### Create by simple click and tap
 ![Start Create Form](./Section_select.png)
+![Start Create Form](./Add%20element.png)
+![Start Create Form](./Selected%20style.png)
 
 ### All your forms in one place
 ![Start Create Form](./Select/../Select%20groups.png)
-
